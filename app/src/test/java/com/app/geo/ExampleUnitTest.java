@@ -1,4 +1,4 @@
-package com.app.geocashing;
+package com.app.geo;
 
 import org.junit.Test;
 

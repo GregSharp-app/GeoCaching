@@ -3,15 +3,30 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/benhs/Desktop/Github/my_shit/GeoCashing/app/src/main/res/layout/activity_login.xml" value="0.25" />
-        <entry key="..\:/Users/benhs/Desktop/Github/my_shit/GeoCashing/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/benhs/Desktop/Github/my_shit/GeoCashing/app/src/main/res/layout/activity_profile.xml" value="0.25" />
-        <entry key="..\:/Users/benhs/Desktop/Github/my_shit/GeoCashing/app/src/main/res/layout/activity_register.xml" value="0.25" />
-        <entry key="..\:/Users/benhs/Desktop/Github/my_shit/GeoCashing/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/drawable/ic_baseline_edit_location_alt_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/drawable/ic_baseline_face_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/drawable/ic_baseline_sign_up.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/drawable/ic_round_home_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/layout/activity_maps.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/layout/activity_permission.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/layout/activity_profile.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CatchGame/app/src/main/res/layout/activity_register.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/benhs/Desktop/Github/Educational projetcs/android-catch-game/app/src/main/res/drawable/bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/benhs/Desktop/Github/Educational projetcs/android-catch-game/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/benhs/Desktop/Github/Educational projetcs/android-catch-game/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/benhs/Desktop/Github/Educational projetcs/android-catch-game/app/src/main/res/layout/activity_maps2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/benhs/Desktop/Github/Educational projetcs/android-catch-game/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/benhs/Desktop/Github/Educational projetcs/android-catch-game/app/src/main/res/layout/activity_questions.xml" value="0.25" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android API 31 Platform" project-jdk-type="Android SDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
